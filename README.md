@@ -7,6 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb2903&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sb2903&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
+
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
@@ -30,22 +34,19 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sb2903&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb2903&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sb2903&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
-</div>
-
 
 <div align="left">
   <a href="https://leetcode.com/u/sayanbasu2006/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/sayan-basu-310a4a376/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.instagram.com/sayanbasu2006/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  </a>
+  <a href="https://codeforces.com/profile/Uncle_Jack07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" />
   </a>
 </div>
 
@@ -62,8 +63,7 @@
 
 <br clear="both">
 
-<!-- Uncomment this section if you set up the Snake animation GitHub Action -->
+<!-- Snake animation (optional) — enable it with GitHub Actions -->
 <!--
 <img src="https://raw.githubusercontent.com/sb2903/sb2903/output/snake.svg" alt="Snake animation" />
 -->
-

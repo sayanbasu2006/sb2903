@@ -30,6 +30,15 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sb2903&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb2903&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sb2903&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
+
 
 <div align="left">
   <a href="https://leetcode.com/u/sayanbasu2006/" target="_blank">
